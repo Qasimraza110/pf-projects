@@ -1,8 +1,7 @@
  PF Projects (Beginner Level)
 
 This repository contains beginner-level Programming Fundamentals (PF) projects written in C++ for university students.  
-The projects demonstrate the use of basic programming concepts like loops, arrays, functions, conditional statements, and file handling.  
-
+The projects demonstrate the use of basic programming concepts like loops, arrays, functions, conditional statements,
 ---
 
 🚀 Projects Included
