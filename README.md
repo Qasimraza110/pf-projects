@@ -6,7 +6,7 @@ The projects demonstrate the use of basic programming concepts like loops, array
 
 🚀 Projects Included
  1. Doctor Appointment System
-- A simple console-based program for booking doctor appointments.  
+- A simple console-based program for booking doctor appointments.           
 - Features:
   - Add patient details  
   - Book appointment slots  
